@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734892375749",
+    "project_id": "usersignup-43d37",
+    "storage_bucket": "usersignup-43d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734892375749:android:10e07aee3ad099075afaac",
+        "android_client_info": {
+          "package_name": "com.example.usersignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJb6Xr7DZCqDrEIs1GgIJHUDbVrPlFrJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
